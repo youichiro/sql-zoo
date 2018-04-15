@@ -1,5 +1,5 @@
 # Tutorials: Learn SQL in stages
-## 8+ Numeric Examples
+### 8+ Numeric Examples
 
 1. The example shows the number who responded for:
   - question 1

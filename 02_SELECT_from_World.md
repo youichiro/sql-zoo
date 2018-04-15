@@ -1,6 +1,5 @@
 # Tutorials: Learn SQL in stages
-## 2 SELECT from World
-https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
+### 2 SELECT from World
 
 1. Observe the result of running this SQL command to show the name, continent and population of all countries.
 ```sql

@@ -1,5 +1,5 @@
 # Tutorials: Learn SQL in stages
-## 8 Using Null
+### 8 Using Null
 
 1. List the teachers who have NULL for their department.
 ```sql

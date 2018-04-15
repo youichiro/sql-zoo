@@ -1,5 +1,5 @@
 # Tutorials: Learn SQL in stages
-## 7 More JOIN operations
+### 7 More JOIN operations
 
 1. List the films where the yr is 1962 (Show id, title)
 ```sql

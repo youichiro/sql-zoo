@@ -1,5 +1,5 @@
 # Tutorials: Learn SQL in stages
-## 9 Self join
+### 9 Self join
 
 1. How many stops are in the database.
 ```sql

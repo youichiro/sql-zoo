@@ -1,6 +1,5 @@
 # Tutorials: Learn SQL in stages
-## 1 SELECT name 
-https://sqlzoo.net/wiki/SELECT_names
+### 1 SELECT name 
 
 1. You can use WHERE name LIKE 'B%' to find the countries that start with "B". Find the country that start with Y.
 ```sql

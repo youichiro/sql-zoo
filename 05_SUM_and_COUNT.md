@@ -1,5 +1,5 @@
 # Tutorials: Learn SQL in stages
-## 5 SUM and COUNT
+### 5 SUM and COUNT
 
 1. Show the total population of the world.
 ```sql
