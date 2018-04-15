@@ -2,7 +2,7 @@
 
 https://sqlzoo.net/  
 This site can study SQL practically.  
-I will post the queries I answered.
+I post the queries I answered.
 
 
 ## Index
